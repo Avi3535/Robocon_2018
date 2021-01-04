@@ -6,3 +6,5 @@ Tasks to be completed can be found at : https://www.youtube.com/watch?v=GAjVA2u-
 
 
 The code attached is only for the automatic robot.
+
+NOTE : The work on this robot (ncluding finding the suitable mechanism, designing the robot, components, etc.) was done in around 2 and a half months. Naturally, the remaining time was used to program the robot. 
